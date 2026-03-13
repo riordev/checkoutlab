@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1772503860528
+    },
+    "imsg": {
+      "version": "1.0.0",
+      "installedAt": 1772503865919
+    },
+    "peekaboo": {
+      "version": "1.0.0",
+      "installedAt": 1772503996009
+    },
+    "tmux": {
+      "version": "1.0.0",
+      "installedAt": 1772504003878
+    }
+  }
+}

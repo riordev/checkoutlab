@@ -1,0 +1,5 @@
+# Test Creator Mockup
+
+- **Select Test Type**: Options for bundle selectors, upsells, or checkout layout tests.
+- **Define Variants**: Allow input of different versions to test (e.g., discount offers, layout changes).
+- **Setup & Launch**: Interface to set parameters and launch the A/B test.

@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Lumen-1-859",
+    "system": "HD-5506",
+    "biome": "fungal",
+    "gravity_g": 0.94,
+    "orbital_period_days": 672.3,
+    "population_millions": 5548.9,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "low"
+  },
+  {
+    "name": "EmberHarbor-132",
+    "system": "HD-1488",
+    "biome": "jungle",
+    "gravity_g": 0.92,
+    "orbital_period_days": 472.6,
+    "population_millions": 217.6,
+    "notable_feature": "time dilation pockets",
+    "threat_level": "critical"
+  },
+  {
+    "name": "PulseHaven-559",
+    "system": "HD-5557",
+    "biome": "oceanic",
+    "gravity_g": 2.7,
+    "orbital_period_days": 173.9,
+    "population_millions": 3465.4,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "IonSpire-204",
+    "system": "HD-2519",
+    "biome": "storm belt",
+    "gravity_g": 0.52,
+    "orbital_period_days": 768.2,
+    "population_millions": 4950.6,
+    "notable_feature": "singing magnetic storms",
+    "threat_level": "high"
+  },
+  {
+    "name": "Petra-7-487",
+    "system": "HD-2291",
+    "biome": "glitter dunes",
+    "gravity_g": 1.17,
+    "orbital_period_days": 579.1,
+    "population_millions": 7260.7,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "critical"
+  },
+  {
+    "name": "IonX-146",
+    "system": "HD-4733",
+    "biome": "floating archipelago",
+    "gravity_g": 3.45,
+    "orbital_period_days": 775.0,
+    "population_millions": 7105.2,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ChronoNexus-266",
+    "system": "HD-7065",
+    "biome": "aurora fields",
+    "gravity_g": 0.89,
+    "orbital_period_days": 266.7,
+    "population_millions": 7680.6,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "critical"
+  },
+  {
+    "name": "EchoLoft-846",
+    "system": "HD-5010",
+    "biome": "tidal-locked",
+    "gravity_g": 1.73,
+    "orbital_period_days": 269.2,
+    "population_millions": 7588.2,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "QuasarPrime-334",
+    "system": "HD-1525",
+    "biome": "subterranean",
+    "gravity_g": 1.52,
+    "orbital_period_days": 93.2,
+    "population_millions": 7487.7,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "IonRidge-505",
+    "system": "HD-8517",
+    "biome": "volcanic",
+    "gravity_g": 1.07,
+    "orbital_period_days": 249.1,
+    "population_millions": 4603.2,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "critical"
+  },
+  {
+    "name": "PulseCrown-508",
+    "system": "HD-6930",
+    "biome": "fungal",
+    "gravity_g": 3.49,
+    "orbital_period_days": 155.5,
+    "population_millions": 4046.8,
+    "notable_feature": "singing magnetic storms",
+    "threat_level": "low"
+  },
+  {
+    "name": "CinderStation-911",
+    "system": "HD-7916",
+    "biome": "midnight tundra",
+    "gravity_g": 0.41,
+    "orbital_period_days": 365.7,
+    "population_millions": 8168.2,
+    "notable_feature": "mirror desert",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "Petra-1-796",
+    "system": "HD-2876",
+    "biome": "glitter dunes",
+    "gravity_g": 2.68,
+    "orbital_period_days": 700.1,
+    "population_millions": 2789.4,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "high"
+  },
+  {
+    "name": "EchoSanctum-103",
+    "system": "HD-5315",
+    "biome": "redwood mesa",
+    "gravity_g": 2.71,
+    "orbital_period_days": 474.6,
+    "population_millions": 872.6,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "critical"
+  },
+  {
+    "name": "HelioReach-256",
+    "system": "HD-7126",
+    "biome": "tidal-locked",
+    "gravity_g": 1.98,
+    "orbital_period_days": 708.7,
+    "population_millions": 4348.9,
+    "notable_feature": "orbiting megastructure",
+    "threat_level": "critical"
+  },
+  {
+    "name": "QuasarRidge-119",
+    "system": "HD-2832",
+    "biome": "aurora fields",
+    "gravity_g": 3.1,
+    "orbital_period_days": 754.6,
+    "population_millions": 2521.6,
+    "notable_feature": "singing magnetic storms",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "EmberX-187",
+    "system": "HD-8962",
+    "biome": "jungle",
+    "gravity_g": 3.43,
+    "orbital_period_days": 496.3,
+    "population_millions": 1031.2,
+    "notable_feature": "subsurface sun",
+    "threat_level": "critical"
+  },
+  {
+    "name": "EchoGate-640",
+    "system": "HD-7932",
+    "biome": "gas giant",
+    "gravity_g": 3.27,
+    "orbital_period_days": 688.5,
+    "population_millions": 5656.9,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "high"
+  },
+  {
+    "name": "AuroraSanctum-629",
+    "system": "HD-8397",
+    "biome": "arctic",
+    "gravity_g": 1.02,
+    "orbital_period_days": 91.3,
+    "population_millions": 172.5,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "EmberHaven-107",
+    "system": "HD-2163",
+    "biome": "desert",
+    "gravity_g": 0.96,
+    "orbital_period_days": 818.3,
+    "population_millions": 7049.0,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "critical"
+  },
+  {
+    "name": "MythosGate-785",
+    "system": "HD-8953",
+    "biome": "gas giant",
+    "gravity_g": 1.98,
+    "orbital_period_days": 661.0,
+    "population_millions": 7235.5,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "high"
+  },
+  {
+    "name": "MythosRidge-926",
+    "system": "HD-7669",
+    "biome": "gas giant",
+    "gravity_g": 0.51,
+    "orbital_period_days": 605.4,
+    "population_millions": 2905.2,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "high"
+  },
+  {
+    "name": "Zephyr-7-162",
+    "system": "HD-7596",
+    "biome": "subterranean",
+    "gravity_g": 2.84,
+    "orbital_period_days": 130.4,
+    "population_millions": 1571.0,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "high"
+  },
+  {
+    "name": "CinderHarbor-287",
+    "system": "HD-5563",
+    "biome": "magnetic plateau",
+    "gravity_g": 1.02,
+    "orbital_period_days": 833.7,
+    "population_millions": 3633.7,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "low"
+  },
+  {
+    "name": "ZephyrLoft-956",
+    "system": "HD-1241",
+    "biome": "jungle",
+    "gravity_g": 3.26,
+    "orbital_period_days": 769.3,
+    "population_millions": 1363.8,
+    "notable_feature": "subsurface sun",
+    "threat_level": "high"
+  },
+  {
+    "name": "IonFrontier-160",
+    "system": "HD-3697",
+    "biome": "storm belt",
+    "gravity_g": 0.21,
+    "orbital_period_days": 373.3,
+    "population_millions": 7597.4,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "PulseLoft-777",
+    "system": "HD-8973",
+    "biome": "volcanic",
+    "gravity_g": 0.83,
+    "orbital_period_days": 224.1,
+    "population_millions": 479.6,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "low"
+  },
+  {
+    "name": "QuasarPrime-151",
+    "system": "HD-8811",
+    "biome": "redwood mesa",
+    "gravity_g": 3.23,
+    "orbital_period_days": 494.9,
+    "population_millions": 466.4,
+    "notable_feature": "mirror desert",
+    "threat_level": "low"
+  },
+  {
+    "name": "EchoX-709",
+    "system": "HD-2113",
+    "biome": "fungal",
+    "gravity_g": 1.53,
+    "orbital_period_days": 849.5,
+    "population_millions": 4671.3,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "ZephyrBasin-183",
+    "system": "HD-7868",
+    "biome": "azure reef",
+    "gravity_g": 2.07,
+    "orbital_period_days": 309.3,
+    "population_millions": 2138.3,
+    "notable_feature": "ringworld remains",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "SolarFrontier-234",
+    "system": "HD-5915",
+    "biome": "magnetic plateau",
+    "gravity_g": 1.24,
+    "orbital_period_days": 685.6,
+    "population_millions": 594.9,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "critical"
+  },
+  {
+    "name": "Ember-7-175",
+    "system": "HD-9808",
+    "biome": "gas giant",
+    "gravity_g": 1.87,
+    "orbital_period_days": 150.4,
+    "population_millions": 2861.9,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "AuroraCore-261",
+    "system": "HD-8179",
+    "biome": "glitter dunes",
+    "gravity_g": 2.52,
+    "orbital_period_days": 564.5,
+    "population_millions": 8095.3,
+    "notable_feature": "mirror desert",
+    "threat_level": "low"
+  },
+  {
+    "name": "PetraCore-779",
+    "system": "HD-2697",
+    "biome": "volcanic",
+    "gravity_g": 1.07,
+    "orbital_period_days": 804.7,
+    "population_millions": 6087.8,
+    "notable_feature": "living sand seas",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NimbusBasin-315",
+    "system": "HD-6617",
+    "biome": "gas giant",
+    "gravity_g": 2.47,
+    "orbital_period_days": 772.9,
+    "population_millions": 4144.4,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "low"
+  },
+  {
+    "name": "NovaHarbor-949",
+    "system": "HD-5533",
+    "biome": "desert",
+    "gravity_g": 0.21,
+    "orbital_period_days": 702.2,
+    "population_millions": 5224.3,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "ChronoLoft-822",
+    "system": "HD-8007",
+    "biome": "glitter dunes",
+    "gravity_g": 0.23,
+    "orbital_period_days": 101.0,
+    "population_millions": 7241.5,
+    "notable_feature": "living sand seas",
+    "threat_level": "critical"
+  },
+  {
+    "name": "ZephyrNexus-696",
+    "system": "HD-3426",
+    "biome": "icy ring",
+    "gravity_g": 0.62,
+    "orbital_period_days": 302.3,
+    "population_millions": 7371.6,
+    "notable_feature": "singing magnetic storms",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "IonHaven-782",
+    "system": "HD-2684",
+    "biome": "aurora fields",
+    "gravity_g": 2.77,
+    "orbital_period_days": 799.9,
+    "population_millions": 3332.3,
+    "notable_feature": "holographic weather",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "MythosStation-919",
+    "system": "HD-3900",
+    "biome": "icy ring",
+    "gravity_g": 0.28,
+    "orbital_period_days": 672.4,
+    "population_millions": 2723.9,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "SolarStation-906",
+    "system": "HD-2771",
+    "biome": "storm belt",
+    "gravity_g": 3.08,
+    "orbital_period_days": 777.8,
+    "population_millions": 1824.0,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NimbusHaven-328",
+    "system": "HD-1387",
+    "biome": "gas giant",
+    "gravity_g": 1.51,
+    "orbital_period_days": 276.7,
+    "population_millions": 569.3,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ObsidianFrontier-795",
+    "system": "HD-9785",
+    "biome": "subterranean",
+    "gravity_g": 3.3,
+    "orbital_period_days": 135.7,
+    "population_millions": 7957.3,
+    "notable_feature": "permanent meteor shower",
+    "threat_level": "critical"
+  },
+  {
+    "name": "SolarPrime-211",
+    "system": "HD-8119",
+    "biome": "aurora fields",
+    "gravity_g": 2.6,
+    "orbital_period_days": 307.0,
+    "population_millions": 4970.9,
+    "notable_feature": "mirror desert",
+    "threat_level": "low"
+  },
+  {
+    "name": "VantaCrown-294",
+    "system": "HD-5173",
+    "biome": "desert",
+    "gravity_g": 2.54,
+    "orbital_period_days": 37.5,
+    "population_millions": 7589.7,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "AuroraHarbor-171",
+    "system": "HD-6409",
+    "biome": "midnight tundra",
+    "gravity_g": 1.24,
+    "orbital_period_days": 768.7,
+    "population_millions": 5902.0,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "critical"
+  },
+  {
+    "name": "NimbusHarbor-434",
+    "system": "HD-7592",
+    "biome": "floating archipelago",
+    "gravity_g": 2.03,
+    "orbital_period_days": 201.7,
+    "population_millions": 5452.4,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "HelioCrown-408",
+    "system": "HD-7653",
+    "biome": "glitter dunes",
+    "gravity_g": 2.95,
+    "orbital_period_days": 298.5,
+    "population_millions": 1723.5,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "QuasarSanctum-552",
+    "system": "HD-8244",
+    "biome": "gas giant",
+    "gravity_g": 1.89,
+    "orbital_period_days": 721.8,
+    "population_millions": 7870.6,
+    "notable_feature": "permanent meteor shower",
+    "threat_level": "low"
+  },
+  {
+    "name": "NimbusCrest-779",
+    "system": "HD-6491",
+    "biome": "jungle",
+    "gravity_g": 2.9,
+    "orbital_period_days": 685.0,
+    "population_millions": 5516.9,
+    "notable_feature": "planetwide fungal network",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "Cinder-1-147",
+    "system": "HD-5011",
+    "biome": "kelp forest",
+    "gravity_g": 2.22,
+    "orbital_period_days": 700.0,
+    "population_millions": 3734.4,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "VantaRidge-509",
+    "system": "HD-4997",
+    "biome": "volcanic",
+    "gravity_g": 2.36,
+    "orbital_period_days": 40.8,
+    "population_millions": 6157.9,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "high"
+  },
+  {
+    "name": "MythosStation-923",
+    "system": "HD-9486",
+    "biome": "magnetic plateau",
+    "gravity_g": 0.37,
+    "orbital_period_days": 251.3,
+    "population_millions": 6956.4,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "ChronoCrest-672",
+    "system": "HD-6198",
+    "biome": "magnetic plateau",
+    "gravity_g": 2.22,
+    "orbital_period_days": 657.5,
+    "population_millions": 4139.2,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "high"
+  },
+  {
+    "name": "EchoRidge-560",
+    "system": "HD-5246",
+    "biome": "fungal",
+    "gravity_g": 2.97,
+    "orbital_period_days": 275.6,
+    "population_millions": 6376.9,
+    "notable_feature": "subsurface sun",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "SolarSanctum-179",
+    "system": "HD-5681",
+    "biome": "fungal",
+    "gravity_g": 1.1,
+    "orbital_period_days": 312.2,
+    "population_millions": 4429.2,
+    "notable_feature": "living sand seas",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "MythosFrontier-810",
+    "system": "HD-3503",
+    "biome": "gas giant",
+    "gravity_g": 0.41,
+    "orbital_period_days": 388.2,
+    "population_millions": 4449.4,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "low"
+  },
+  {
+    "name": "IonHarbor-498",
+    "system": "HD-1320",
+    "biome": "azure reef",
+    "gravity_g": 1.46,
+    "orbital_period_days": 41.1,
+    "population_millions": 2884.4,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "high"
+  },
+  {
+    "name": "PetraLoft-919",
+    "system": "HD-4613",
+    "biome": "kelp forest",
+    "gravity_g": 0.92,
+    "orbital_period_days": 412.6,
+    "population_millions": 238.0,
+    "notable_feature": "ringworld remains",
+    "threat_level": "high"
+  },
+  {
+    "name": "EchoSanctum-230",
+    "system": "HD-9751",
+    "biome": "oceanic",
+    "gravity_g": 3.19,
+    "orbital_period_days": 547.4,
+    "population_millions": 5436.6,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "high"
+  },
+  {
+    "name": "CinderSanctum-286",
+    "system": "HD-1823",
+    "biome": "crystal plains",
+    "gravity_g": 1.45,
+    "orbital_period_days": 218.9,
+    "population_millions": 2680.1,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "PulseGate-954",
+    "system": "HD-2341",
+    "biome": "kelp forest",
+    "gravity_g": 0.26,
+    "orbital_period_days": 502.1,
+    "population_millions": 8199.2,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "NovaPrime-872",
+    "system": "HD-1508",
+    "biome": "fungal",
+    "gravity_g": 0.86,
+    "orbital_period_days": 53.6,
+    "population_millions": 1249.5,
+    "notable_feature": "living sand seas",
+    "threat_level": "high"
+  },
+  {
+    "name": "LumenCrown-323",
+    "system": "HD-8619",
+    "biome": "crystal plains",
+    "gravity_g": 2.73,
+    "orbital_period_days": 181.0,
+    "population_millions": 4979.4,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "Nimbus-7-692",
+    "system": "HD-1420",
+    "biome": "floating archipelago",
+    "gravity_g": 2.1,
+    "orbital_period_days": 820.5,
+    "population_millions": 3077.5,
+    "notable_feature": "time dilation pockets",
+    "threat_level": "low"
+  },
+  {
+    "name": "EmberHaven-204",
+    "system": "HD-5941",
+    "biome": "midnight tundra",
+    "gravity_g": 2.86,
+    "orbital_period_days": 723.9,
+    "population_millions": 4640.6,
+    "notable_feature": "singing magnetic storms",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "PetraHarbor-777",
+    "system": "HD-7071",
+    "biome": "jungle",
+    "gravity_g": 1.87,
+    "orbital_period_days": 330.8,
+    "population_millions": 6966.5,
+    "notable_feature": "subsurface sun",
+    "threat_level": "low"
+  },
+  {
+    "name": "PulseNexus-750",
+    "system": "HD-8532",
+    "biome": "volcanic",
+    "gravity_g": 1.64,
+    "orbital_period_days": 670.0,
+    "population_millions": 7916.9,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "critical"
+  },
+  {
+    "name": "PetraRidge-576",
+    "system": "HD-8136",
+    "biome": "azure reef",
+    "gravity_g": 1.09,
+    "orbital_period_days": 771.9,
+    "population_millions": 6812.0,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ChronoHaven-868",
+    "system": "HD-8613",
+    "biome": "azure reef",
+    "gravity_g": 2.21,
+    "orbital_period_days": 363.4,
+    "population_millions": 235.3,
+    "notable_feature": "ringworld remains",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "GlacierReach-463",
+    "system": "HD-5232",
+    "biome": "subterranean",
+    "gravity_g": 1.12,
+    "orbital_period_days": 551.1,
+    "population_millions": 7216.9,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "low"
+  },
+  {
+    "name": "ObsidianReach-187",
+    "system": "HD-4954",
+    "biome": "icy ring",
+    "gravity_g": 1.81,
+    "orbital_period_days": 691.1,
+    "population_millions": 5663.0,
+    "notable_feature": "subsurface sun",
+    "threat_level": "high"
+  },
+  {
+    "name": "AstraX-401",
+    "system": "HD-4630",
+    "biome": "storm belt",
+    "gravity_g": 2.48,
+    "orbital_period_days": 300.6,
+    "population_millions": 4768.8,
+    "notable_feature": "subsurface sun",
+    "threat_level": "critical"
+  },
+  {
+    "name": "ObsidianNexus-535",
+    "system": "HD-6419",
+    "biome": "aurora fields",
+    "gravity_g": 2.52,
+    "orbital_period_days": 270.1,
+    "population_millions": 2061.5,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "Quasar-7-860",
+    "system": "HD-9779",
+    "biome": "tidal-locked",
+    "gravity_g": 0.83,
+    "orbital_period_days": 674.2,
+    "population_millions": 2267.3,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "HelioCore-202",
+    "system": "HD-4180",
+    "biome": "floating archipelago",
+    "gravity_g": 0.95,
+    "orbital_period_days": 191.0,
+    "population_millions": 116.0,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "SolarPrime-155",
+    "system": "HD-5786",
+    "biome": "volcanic",
+    "gravity_g": 2.3,
+    "orbital_period_days": 686.4,
+    "population_millions": 841.2,
+    "notable_feature": "orbiting megastructure",
+    "threat_level": "critical"
+  },
+  {
+    "name": "NimbusRidge-590",
+    "system": "HD-8216",
+    "biome": "subterranean",
+    "gravity_g": 0.81,
+    "orbital_period_days": 80.4,
+    "population_millions": 7716.7,
+    "notable_feature": "subsurface sun",
+    "threat_level": "low"
+  },
+  {
+    "name": "NovaFrontier-603",
+    "system": "HD-2213",
+    "biome": "azure reef",
+    "gravity_g": 2.28,
+    "orbital_period_days": 82.3,
+    "population_millions": 1223.4,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NovaHaven-221",
+    "system": "HD-7818",
+    "biome": "midnight tundra",
+    "gravity_g": 2.17,
+    "orbital_period_days": 570.3,
+    "population_millions": 6360.7,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "high"
+  },
+  {
+    "name": "ChronoCore-980",
+    "system": "HD-8025",
+    "biome": "floating archipelago",
+    "gravity_g": 2.08,
+    "orbital_period_days": 88.0,
+    "population_millions": 7872.9,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "IonGate-776",
+    "system": "HD-2330",
+    "biome": "tidal-locked",
+    "gravity_g": 0.99,
+    "orbital_period_days": 512.9,
+    "population_millions": 1283.6,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "high"
+  },
+  {
+    "name": "HelioRidge-398",
+    "system": "HD-1534",
+    "biome": "fungal",
+    "gravity_g": 1.15,
+    "orbital_period_days": 280.3,
+    "population_millions": 7048.8,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "SolarCrown-777",
+    "system": "HD-4241",
+    "biome": "icy ring",
+    "gravity_g": 0.58,
+    "orbital_period_days": 230.2,
+    "population_millions": 1221.7,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "NovaPrime-269",
+    "system": "HD-6039",
+    "biome": "midnight tundra",
+    "gravity_g": 2.67,
+    "orbital_period_days": 527.8,
+    "population_millions": 2366.6,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "high"
+  },
+  {
+    "name": "NimbusFrontier-378",
+    "system": "HD-9199",
+    "biome": "glitter dunes",
+    "gravity_g": 1.83,
+    "orbital_period_days": 105.5,
+    "population_millions": 326.9,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "HelioGate-126",
+    "system": "HD-2496",
+    "biome": "fungal",
+    "gravity_g": 3.37,
+    "orbital_period_days": 758.3,
+    "population_millions": 4716.6,
+    "notable_feature": "orbiting megastructure",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "EmberPrime-881",
+    "system": "HD-3870",
+    "biome": "kelp forest",
+    "gravity_g": 1.91,
+    "orbital_period_days": 418.1,
+    "population_millions": 2280.9,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "high"
+  },
+  {
+    "name": "GlacierX-581",
+    "system": "HD-6700",
+    "biome": "icy ring",
+    "gravity_g": 1.3,
+    "orbital_period_days": 615.0,
+    "population_millions": 7033.4,
+    "notable_feature": "ringworld remains",
+    "threat_level": "high"
+  },
+  {
+    "name": "GlacierCore-778",
+    "system": "HD-7561",
+    "biome": "glitter dunes",
+    "gravity_g": 0.32,
+    "orbital_period_days": 112.1,
+    "population_millions": 2069.7,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "high"
+  },
+  {
+    "name": "Obsidian-1-773",
+    "system": "HD-9889",
+    "biome": "magnetic plateau",
+    "gravity_g": 1.56,
+    "orbital_period_days": 198.1,
+    "population_millions": 2966.6,
+    "notable_feature": "subsurface sun",
+    "threat_level": "high"
+  },
+  {
+    "name": "ZephyrReach-373",
+    "system": "HD-9998",
+    "biome": "volcanic",
+    "gravity_g": 3.26,
+    "orbital_period_days": 414.5,
+    "population_millions": 5725.7,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "low"
+  },
+  {
+    "name": "HelioHaven-826",
+    "system": "HD-3594",
+    "biome": "floating archipelago",
+    "gravity_g": 2.02,
+    "orbital_period_days": 513.1,
+    "population_millions": 764.3,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "high"
+  },
+  {
+    "name": "LumenDelta-610",
+    "system": "HD-5781",
+    "biome": "redwood mesa",
+    "gravity_g": 2.53,
+    "orbital_period_days": 395.0,
+    "population_millions": 3956.5,
+    "notable_feature": "subsurface sun",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "ChronoLoft-248",
+    "system": "HD-7284",
+    "biome": "gas giant",
+    "gravity_g": 3.24,
+    "orbital_period_days": 475.1,
+    "population_millions": 7210.5,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "PulseSpire-906",
+    "system": "HD-9318",
+    "biome": "crystal plains",
+    "gravity_g": 2.91,
+    "orbital_period_days": 280.4,
+    "population_millions": 2448.2,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "GlacierDelta-557",
+    "system": "HD-9824",
+    "biome": "kelp forest",
+    "gravity_g": 1.34,
+    "orbital_period_days": 512.9,
+    "population_millions": 4456.1,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "IonHaven-685",
+    "system": "HD-7274",
+    "biome": "fungal",
+    "gravity_g": 3.02,
+    "orbital_period_days": 390.9,
+    "population_millions": 2609.0,
+    "notable_feature": "subsurface sun",
+    "threat_level": "high"
+  },
+  {
+    "name": "VantaDelta-607",
+    "system": "HD-1606",
+    "biome": "volcanic",
+    "gravity_g": 1.86,
+    "orbital_period_days": 545.9,
+    "population_millions": 7131.5,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "low"
+  },
+  {
+    "name": "ObsidianSanctum-115",
+    "system": "HD-3361",
+    "biome": "icy ring",
+    "gravity_g": 3.07,
+    "orbital_period_days": 874.0,
+    "population_millions": 613.6,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "HelioFrontier-765",
+    "system": "HD-2315",
+    "biome": "subterranean",
+    "gravity_g": 3.01,
+    "orbital_period_days": 778.5,
+    "population_millions": 3116.1,
+    "notable_feature": "ringworld remains",
+    "threat_level": "high"
+  },
+  {
+    "name": "PetraPrime-732",
+    "system": "HD-2121",
+    "biome": "fungal",
+    "gravity_g": 2.28,
+    "orbital_period_days": 831.7,
+    "population_millions": 8178.9,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "high"
+  },
+  {
+    "name": "Lumen-7-554",
+    "system": "HD-3725",
+    "biome": "floating archipelago",
+    "gravity_g": 3.18,
+    "orbital_period_days": 75.7,
+    "population_millions": 6528.4,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "AuroraHarbor-249",
+    "system": "HD-5000",
+    "biome": "redwood mesa",
+    "gravity_g": 1.56,
+    "orbital_period_days": 625.1,
+    "population_millions": 1476.5,
+    "notable_feature": "permanent meteor shower",
+    "threat_level": "low"
+  },
+  {
+    "name": "HelioFrontier-734",
+    "system": "HD-4945",
+    "biome": "kelp forest",
+    "gravity_g": 3.21,
+    "orbital_period_days": 159.7,
+    "population_millions": 3781.4,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "high"
+  },
+  {
+    "name": "Solar-1-923",
+    "system": "HD-8622",
+    "biome": "floating archipelago",
+    "gravity_g": 2.44,
+    "orbital_period_days": 172.5,
+    "population_millions": 3622.2,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "critical"
+  },
+  {
+    "name": "NimbusHarbor-806",
+    "system": "HD-5097",
+    "biome": "magnetic plateau",
+    "gravity_g": 2.99,
+    "orbital_period_days": 208.1,
+    "population_millions": 3154.5,
+    "notable_feature": "subsurface sun",
+    "threat_level": "low"
+  },
+  {
+    "name": "MythosFrontier-685",
+    "system": "HD-6881",
+    "biome": "azure reef",
+    "gravity_g": 1.18,
+    "orbital_period_days": 640.2,
+    "population_millions": 179.9,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "AstraCrown-985",
+    "system": "HD-1803",
+    "biome": "midnight tundra",
+    "gravity_g": 2.66,
+    "orbital_period_days": 755.6,
+    "population_millions": 7404.1,
+    "notable_feature": "planetwide fungal network",
+    "threat_level": "critical"
+  },
+  {
+    "name": "AuroraHaven-751",
+    "system": "HD-4115",
+    "biome": "midnight tundra",
+    "gravity_g": 1.03,
+    "orbital_period_days": 688.8,
+    "population_millions": 6293.3,
+    "notable_feature": "living sand seas",
+    "threat_level": "low"
+  },
+  {
+    "name": "ZephyrCore-907",
+    "system": "HD-8222",
+    "biome": "desert",
+    "gravity_g": 2.11,
+    "orbital_period_days": 668.8,
+    "population_millions": 739.1,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "PulseStation-305",
+    "system": "HD-3165",
+    "biome": "glitter dunes",
+    "gravity_g": 3.09,
+    "orbital_period_days": 352.1,
+    "population_millions": 4114.7,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "SolarRidge-925",
+    "system": "HD-5835",
+    "biome": "subterranean",
+    "gravity_g": 2.85,
+    "orbital_period_days": 440.6,
+    "population_millions": 617.5,
+    "notable_feature": "planetwide fungal network",
+    "threat_level": "high"
+  },
+  {
+    "name": "PetraNexus-192",
+    "system": "HD-7464",
+    "biome": "oceanic",
+    "gravity_g": 1.07,
+    "orbital_period_days": 142.8,
+    "population_millions": 3022.4,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "critical"
+  },
+  {
+    "name": "VantaNexus-210",
+    "system": "HD-4830",
+    "biome": "kelp forest",
+    "gravity_g": 0.28,
+    "orbital_period_days": 800.0,
+    "population_millions": 4603.5,
+    "notable_feature": "holographic weather",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "NovaSanctum-817",
+    "system": "HD-5951",
+    "biome": "icy ring",
+    "gravity_g": 0.59,
+    "orbital_period_days": 75.2,
+    "population_millions": 305.1,
+    "notable_feature": "subsurface sun",
+    "threat_level": "low"
+  },
+  {
+    "name": "LumenHaven-650",
+    "system": "HD-3222",
+    "biome": "storm belt",
+    "gravity_g": 1.7,
+    "orbital_period_days": 615.3,
+    "population_millions": 6093.7,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "high"
+  },
+  {
+    "name": "EmberDelta-524",
+    "system": "HD-2622",
+    "biome": "kelp forest",
+    "gravity_g": 2.23,
+    "orbital_period_days": 847.3,
+    "population_millions": 2293.9,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "ChronoSanctum-341",
+    "system": "HD-6942",
+    "biome": "arctic",
+    "gravity_g": 3.44,
+    "orbital_period_days": 353.4,
+    "population_millions": 7393.9,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "low"
+  },
+  {
+    "name": "VantaGate-294",
+    "system": "HD-3001",
+    "biome": "magnetic plateau",
+    "gravity_g": 0.5,
+    "orbital_period_days": 219.3,
+    "population_millions": 5243.8,
+    "notable_feature": "orbiting megastructure",
+    "threat_level": "low"
+  },
+  {
+    "name": "QuasarHaven-228",
+    "system": "HD-4362",
+    "biome": "jungle",
+    "gravity_g": 2.94,
+    "orbital_period_days": 514.8,
+    "population_millions": 4808.3,
+    "notable_feature": "planetwide fungal network",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "CinderBasin-102",
+    "system": "HD-5542",
+    "biome": "volcanic",
+    "gravity_g": 3.46,
+    "orbital_period_days": 502.7,
+    "population_millions": 6547.8,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "low"
+  },
+  {
+    "name": "Cinder-1-466",
+    "system": "HD-4898",
+    "biome": "azure reef",
+    "gravity_g": 1.27,
+    "orbital_period_days": 186.5,
+    "population_millions": 429.7,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "critical"
+  },
+  {
+    "name": "LumenX-587",
+    "system": "HD-8344",
+    "biome": "aurora fields",
+    "gravity_g": 1.89,
+    "orbital_period_days": 130.2,
+    "population_millions": 4131.5,
+    "notable_feature": "holographic weather",
+    "threat_level": "low"
+  },
+  {
+    "name": "ObsidianCore-569",
+    "system": "HD-1510",
+    "biome": "desert",
+    "gravity_g": 3.5,
+    "orbital_period_days": 768.1,
+    "population_millions": 3495.4,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "high"
+  },
+  {
+    "name": "ChronoX-182",
+    "system": "HD-6277",
+    "biome": "midnight tundra",
+    "gravity_g": 0.69,
+    "orbital_period_days": 145.0,
+    "population_millions": 5119.4,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "QuasarFrontier-711",
+    "system": "HD-9692",
+    "biome": "floating archipelago",
+    "gravity_g": 1.7,
+    "orbital_period_days": 559.1,
+    "population_millions": 813.3,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "critical"
+  },
+  {
+    "name": "IonHarbor-562",
+    "system": "HD-4743",
+    "biome": "icy ring",
+    "gravity_g": 1.32,
+    "orbital_period_days": 427.8,
+    "population_millions": 3411.1,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "PulseSpire-781",
+    "system": "HD-5176",
+    "biome": "aurora fields",
+    "gravity_g": 3.35,
+    "orbital_period_days": 629.4,
+    "population_millions": 3889.0,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "low"
+  },
+  {
+    "name": "NovaHarbor-198",
+    "system": "HD-7105",
+    "biome": "volcanic",
+    "gravity_g": 2.04,
+    "orbital_period_days": 542.7,
+    "population_millions": 4605.0,
+    "notable_feature": "ringworld remains",
+    "threat_level": "low"
+  },
+  {
+    "name": "PulseNexus-994",
+    "system": "HD-7929",
+    "biome": "desert",
+    "gravity_g": 3.4,
+    "orbital_period_days": 554.8,
+    "population_millions": 2883.5,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "IonDelta-772",
+    "system": "HD-8900",
+    "biome": "fungal",
+    "gravity_g": 3.0,
+    "orbital_period_days": 338.5,
+    "population_millions": 4561.4,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "EmberHaven-926",
+    "system": "HD-8030",
+    "biome": "glitter dunes",
+    "gravity_g": 3.42,
+    "orbital_period_days": 743.1,
+    "population_millions": 5031.3,
+    "notable_feature": "sky leviathan migration",
+    "threat_level": "low"
+  },
+  {
+    "name": "HelioGate-129",
+    "system": "HD-3955",
+    "biome": "crystal plains",
+    "gravity_g": 2.52,
+    "orbital_period_days": 303.0,
+    "population_millions": 2786.6,
+    "notable_feature": "orbiting megastructure",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "CinderCrown-773",
+    "system": "HD-7566",
+    "biome": "jungle",
+    "gravity_g": 0.67,
+    "orbital_period_days": 583.1,
+    "population_millions": 251.4,
+    "notable_feature": "mirror desert",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "VantaHarbor-564",
+    "system": "HD-6585",
+    "biome": "tidal-locked",
+    "gravity_g": 1.42,
+    "orbital_period_days": 659.5,
+    "population_millions": 6370.1,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "NovaPrime-259",
+    "system": "HD-3579",
+    "biome": "midnight tundra",
+    "gravity_g": 0.36,
+    "orbital_period_days": 106.5,
+    "population_millions": 3633.5,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "high"
+  },
+  {
+    "name": "HelioSanctum-524",
+    "system": "HD-5475",
+    "biome": "gas giant",
+    "gravity_g": 2.69,
+    "orbital_period_days": 134.3,
+    "population_millions": 3525.3,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "critical"
+  },
+  {
+    "name": "GlacierCrest-783",
+    "system": "HD-6053",
+    "biome": "desert",
+    "gravity_g": 0.93,
+    "orbital_period_days": 886.6,
+    "population_millions": 449.2,
+    "notable_feature": "time dilation pockets",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "IonDelta-882",
+    "system": "HD-5186",
+    "biome": "floating archipelago",
+    "gravity_g": 1.28,
+    "orbital_period_days": 42.7,
+    "population_millions": 6125.5,
+    "notable_feature": "permanent meteor shower",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "VantaLoft-820",
+    "system": "HD-4770",
+    "biome": "redwood mesa",
+    "gravity_g": 2.04,
+    "orbital_period_days": 613.2,
+    "population_millions": 2904.2,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "low"
+  },
+  {
+    "name": "Pulse-1-570",
+    "system": "HD-2275",
+    "biome": "subterranean",
+    "gravity_g": 2.1,
+    "orbital_period_days": 531.4,
+    "population_millions": 5817.9,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "LumenFrontier-121",
+    "system": "HD-6321",
+    "biome": "tidal-locked",
+    "gravity_g": 2.84,
+    "orbital_period_days": 570.1,
+    "population_millions": 6822.6,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "low"
+  },
+  {
+    "name": "Pulse-7-349",
+    "system": "HD-8138",
+    "biome": "azure reef",
+    "gravity_g": 1.52,
+    "orbital_period_days": 104.0,
+    "population_millions": 7138.3,
+    "notable_feature": "ringworld remains",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "QuasarStation-178",
+    "system": "HD-9363",
+    "biome": "arctic",
+    "gravity_g": 1.95,
+    "orbital_period_days": 203.5,
+    "population_millions": 6365.1,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "Mythos-7-249",
+    "system": "HD-5193",
+    "biome": "gas giant",
+    "gravity_g": 0.77,
+    "orbital_period_days": 168.1,
+    "population_millions": 6225.0,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "GlacierSanctum-872",
+    "system": "HD-8354",
+    "biome": "azure reef",
+    "gravity_g": 2.32,
+    "orbital_period_days": 888.4,
+    "population_millions": 2650.3,
+    "notable_feature": "ringworld remains",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "ChronoX-580",
+    "system": "HD-8245",
+    "biome": "floating archipelago",
+    "gravity_g": 2.83,
+    "orbital_period_days": 547.0,
+    "population_millions": 2885.9,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ChronoSanctum-138",
+    "system": "HD-1932",
+    "biome": "aurora fields",
+    "gravity_g": 2.94,
+    "orbital_period_days": 102.3,
+    "population_millions": 7086.9,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "critical"
+  },
+  {
+    "name": "HelioCrest-493",
+    "system": "HD-8581",
+    "biome": "azure reef",
+    "gravity_g": 2.03,
+    "orbital_period_days": 720.1,
+    "population_millions": 7346.2,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "critical"
+  },
+  {
+    "name": "IonSpire-719",
+    "system": "HD-8792",
+    "biome": "redwood mesa",
+    "gravity_g": 0.7,
+    "orbital_period_days": 89.5,
+    "population_millions": 848.7,
+    "notable_feature": "ringworld remains",
+    "threat_level": "low"
+  },
+  {
+    "name": "ObsidianStation-140",
+    "system": "HD-5059",
+    "biome": "magnetic plateau",
+    "gravity_g": 3.47,
+    "orbital_period_days": 488.8,
+    "population_millions": 5000.4,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NimbusFrontier-518",
+    "system": "HD-6543",
+    "biome": "midnight tundra",
+    "gravity_g": 0.37,
+    "orbital_period_days": 581.1,
+    "population_millions": 2744.1,
+    "notable_feature": "ringworld remains",
+    "threat_level": "low"
+  },
+  {
+    "name": "PetraFrontier-390",
+    "system": "HD-5128",
+    "biome": "midnight tundra",
+    "gravity_g": 3.08,
+    "orbital_period_days": 324.0,
+    "population_millions": 4778.5,
+    "notable_feature": "living sand seas",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NimbusFrontier-232",
+    "system": "HD-2388",
+    "biome": "floating archipelago",
+    "gravity_g": 2.04,
+    "orbital_period_days": 592.0,
+    "population_millions": 2693.5,
+    "notable_feature": "living sand seas",
+    "threat_level": "critical"
+  },
+  {
+    "name": "NovaHarbor-620",
+    "system": "HD-6928",
+    "biome": "oceanic",
+    "gravity_g": 1.4,
+    "orbital_period_days": 191.7,
+    "population_millions": 1756.4,
+    "notable_feature": "subsurface sun",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "MythosDelta-258",
+    "system": "HD-2264",
+    "biome": "floating archipelago",
+    "gravity_g": 2.99,
+    "orbital_period_days": 123.4,
+    "population_millions": 6321.2,
+    "notable_feature": "mirror desert",
+    "threat_level": "low"
+  },
+  {
+    "name": "QuasarBasin-234",
+    "system": "HD-7172",
+    "biome": "volcanic",
+    "gravity_g": 0.74,
+    "orbital_period_days": 754.3,
+    "population_millions": 6323.0,
+    "notable_feature": "permanent meteor shower",
+    "threat_level": "high"
+  },
+  {
+    "name": "ZephyrHarbor-473",
+    "system": "HD-4891",
+    "biome": "magnetic plateau",
+    "gravity_g": 2.21,
+    "orbital_period_days": 686.1,
+    "population_millions": 6427.2,
+    "notable_feature": "planetwide fungal network",
+    "threat_level": "critical"
+  },
+  {
+    "name": "MythosCore-928",
+    "system": "HD-8684",
+    "biome": "gas giant",
+    "gravity_g": 1.41,
+    "orbital_period_days": 854.3,
+    "population_millions": 8072.4,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "VantaCrest-640",
+    "system": "HD-7859",
+    "biome": "tidal-locked",
+    "gravity_g": 2.9,
+    "orbital_period_days": 728.3,
+    "population_millions": 1134.9,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "low"
+  },
+  {
+    "name": "GlacierNexus-667",
+    "system": "HD-2680",
+    "biome": "redwood mesa",
+    "gravity_g": 3.01,
+    "orbital_period_days": 282.3,
+    "population_millions": 6257.6,
+    "notable_feature": "bioluminescent atmosphere",
+    "threat_level": "high"
+  },
+  {
+    "name": "ObsidianDelta-950",
+    "system": "HD-8167",
+    "biome": "jungle",
+    "gravity_g": 3.32,
+    "orbital_period_days": 227.8,
+    "population_millions": 3699.2,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "low"
+  },
+  {
+    "name": "PulsePrime-505",
+    "system": "HD-9224",
+    "biome": "aurora fields",
+    "gravity_g": 0.98,
+    "orbital_period_days": 895.3,
+    "population_millions": 3074.3,
+    "notable_feature": "orbiting megastructure",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "LumenSpire-910",
+    "system": "HD-3392",
+    "biome": "volcanic",
+    "gravity_g": 0.33,
+    "orbital_period_days": 828.6,
+    "population_millions": 3874.1,
+    "notable_feature": "living sand seas",
+    "threat_level": "high"
+  },
+  {
+    "name": "ChronoBasin-105",
+    "system": "HD-2298",
+    "biome": "oceanic",
+    "gravity_g": 1.04,
+    "orbital_period_days": 757.4,
+    "population_millions": 4500.2,
+    "notable_feature": "holographic weather",
+    "threat_level": "critical"
+  },
+  {
+    "name": "Pulse-7-894",
+    "system": "HD-5720",
+    "biome": "fungal",
+    "gravity_g": 1.19,
+    "orbital_period_days": 77.3,
+    "population_millions": 3442.6,
+    "notable_feature": "holographic weather",
+    "threat_level": "high"
+  },
+  {
+    "name": "Nova-7-956",
+    "system": "HD-9189",
+    "biome": "midnight tundra",
+    "gravity_g": 1.97,
+    "orbital_period_days": 582.0,
+    "population_millions": 4715.4,
+    "notable_feature": "living sand seas",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "Pulse-1-729",
+    "system": "HD-6780",
+    "biome": "fungal",
+    "gravity_g": 2.08,
+    "orbital_period_days": 197.8,
+    "population_millions": 5479.4,
+    "notable_feature": "mirror desert",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NovaCrest-657",
+    "system": "HD-9312",
+    "biome": "redwood mesa",
+    "gravity_g": 2.03,
+    "orbital_period_days": 373.4,
+    "population_millions": 3855.1,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "Solar-1-465",
+    "system": "HD-2106",
+    "biome": "aurora fields",
+    "gravity_g": 1.0,
+    "orbital_period_days": 603.7,
+    "population_millions": 850.0,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "CinderPrime-460",
+    "system": "HD-9945",
+    "biome": "subterranean",
+    "gravity_g": 2.88,
+    "orbital_period_days": 187.3,
+    "population_millions": 6389.0,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "high"
+  },
+  {
+    "name": "EchoDelta-164",
+    "system": "HD-8498",
+    "biome": "desert",
+    "gravity_g": 1.17,
+    "orbital_period_days": 73.8,
+    "population_millions": 1635.7,
+    "notable_feature": "singing magnetic storms",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NimbusCrest-507",
+    "system": "HD-9897",
+    "biome": "kelp forest",
+    "gravity_g": 1.04,
+    "orbital_period_days": 686.8,
+    "population_millions": 1567.0,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "low"
+  },
+  {
+    "name": "QuasarGate-227",
+    "system": "HD-7029",
+    "biome": "icy ring",
+    "gravity_g": 3.14,
+    "orbital_period_days": 678.2,
+    "population_millions": 7336.0,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "EchoRidge-808",
+    "system": "HD-9151",
+    "biome": "aurora fields",
+    "gravity_g": 3.25,
+    "orbital_period_days": 484.7,
+    "population_millions": 6569.4,
+    "notable_feature": "sentient coral reefs",
+    "threat_level": "low"
+  },
+  {
+    "name": "PulseBasin-942",
+    "system": "HD-3956",
+    "biome": "glitter dunes",
+    "gravity_g": 1.17,
+    "orbital_period_days": 124.6,
+    "population_millions": 2688.9,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ChronoBasin-834",
+    "system": "HD-7981",
+    "biome": "tidal-locked",
+    "gravity_g": 2.48,
+    "orbital_period_days": 339.7,
+    "population_millions": 347.3,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "critical"
+  },
+  {
+    "name": "PulseGate-754",
+    "system": "HD-1939",
+    "biome": "jungle",
+    "gravity_g": 2.41,
+    "orbital_period_days": 387.0,
+    "population_millions": 4207.3,
+    "notable_feature": "permanent meteor shower",
+    "threat_level": "low"
+  },
+  {
+    "name": "CinderBasin-794",
+    "system": "HD-8179",
+    "biome": "desert",
+    "gravity_g": 0.62,
+    "orbital_period_days": 239.9,
+    "population_millions": 5290.3,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "high"
+  },
+  {
+    "name": "EmberPrime-719",
+    "system": "HD-3513",
+    "biome": "magnetic plateau",
+    "gravity_g": 3.33,
+    "orbital_period_days": 357.4,
+    "population_millions": 6257.3,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "ObsidianNexus-507",
+    "system": "HD-6150",
+    "biome": "crystal plains",
+    "gravity_g": 1.02,
+    "orbital_period_days": 134.0,
+    "population_millions": 6032.5,
+    "notable_feature": "subsurface sun",
+    "threat_level": "critical"
+  },
+  {
+    "name": "VantaLoft-220",
+    "system": "HD-5288",
+    "biome": "crystal plains",
+    "gravity_g": 2.52,
+    "orbital_period_days": 221.4,
+    "population_millions": 5017.4,
+    "notable_feature": "subsurface sun",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "LumenDelta-973",
+    "system": "HD-2213",
+    "biome": "magnetic plateau",
+    "gravity_g": 0.77,
+    "orbital_period_days": 652.4,
+    "population_millions": 8177.6,
+    "notable_feature": "ringworld remains",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "NovaLoft-655",
+    "system": "HD-5757",
+    "biome": "floating archipelago",
+    "gravity_g": 3.01,
+    "orbital_period_days": 651.0,
+    "population_millions": 7604.1,
+    "notable_feature": "permanent meteor shower",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ObsidianHaven-224",
+    "system": "HD-4292",
+    "biome": "volcanic",
+    "gravity_g": 0.98,
+    "orbital_period_days": 462.8,
+    "population_millions": 2959.4,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ChronoLoft-232",
+    "system": "HD-2412",
+    "biome": "jungle",
+    "gravity_g": 1.22,
+    "orbital_period_days": 899.7,
+    "population_millions": 5894.7,
+    "notable_feature": "mirror desert",
+    "threat_level": "high"
+  },
+  {
+    "name": "PulseCrown-175",
+    "system": "HD-3053",
+    "biome": "subterranean",
+    "gravity_g": 2.32,
+    "orbital_period_days": 424.8,
+    "population_millions": 5576.9,
+    "notable_feature": "tidal energy spires",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "PetraCrown-286",
+    "system": "HD-3114",
+    "biome": "icy ring",
+    "gravity_g": 1.86,
+    "orbital_period_days": 786.1,
+    "population_millions": 6817.4,
+    "notable_feature": "mirror desert",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "NimbusStation-265",
+    "system": "HD-6286",
+    "biome": "fungal",
+    "gravity_g": 1.34,
+    "orbital_period_days": 848.9,
+    "population_millions": 7338.4,
+    "notable_feature": "ancient caretaker AI",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "IonLoft-381",
+    "system": "HD-3050",
+    "biome": "floating archipelago",
+    "gravity_g": 2.23,
+    "orbital_period_days": 116.7,
+    "population_millions": 5256.1,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "critical"
+  },
+  {
+    "name": "CinderStation-774",
+    "system": "HD-6531",
+    "biome": "azure reef",
+    "gravity_g": 0.34,
+    "orbital_period_days": 782.3,
+    "population_millions": 666.0,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "IonCrown-526",
+    "system": "HD-1496",
+    "biome": "kelp forest",
+    "gravity_g": 3.13,
+    "orbital_period_days": 507.4,
+    "population_millions": 5263.6,
+    "notable_feature": "gravity lenses visible to naked eye",
+    "threat_level": "high"
+  },
+  {
+    "name": "MythosFrontier-404",
+    "system": "HD-8430",
+    "biome": "jungle",
+    "gravity_g": 2.47,
+    "orbital_period_days": 172.6,
+    "population_millions": 3408.1,
+    "notable_feature": "quantum beacon array",
+    "threat_level": "guarded"
+  },
+  {
+    "name": "QuasarBasin-247",
+    "system": "HD-6121",
+    "biome": "subterranean",
+    "gravity_g": 2.62,
+    "orbital_period_days": 779.7,
+    "population_millions": 7998.1,
+    "notable_feature": "living sand seas",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "ObsidianLoft-208",
+    "system": "HD-6228",
+    "biome": "fungal",
+    "gravity_g": 1.74,
+    "orbital_period_days": 267.1,
+    "population_millions": 2032.9,
+    "notable_feature": "floating monolith cities",
+    "threat_level": "low"
+  },
+  {
+    "name": "NimbusFrontier-984",
+    "system": "HD-7850",
+    "biome": "fungal",
+    "gravity_g": 3.38,
+    "orbital_period_days": 815.6,
+    "population_millions": 6670.5,
+    "notable_feature": "orbital elevator forest",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "IonStation-610",
+    "system": "HD-9433",
+    "biome": "magnetic plateau",
+    "gravity_g": 1.85,
+    "orbital_period_days": 302.6,
+    "population_millions": 190.0,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "critical"
+  },
+  {
+    "name": "ChronoHaven-320",
+    "system": "HD-6781",
+    "biome": "desert",
+    "gravity_g": 0.37,
+    "orbital_period_days": 463.6,
+    "population_millions": 7235.2,
+    "notable_feature": "subsurface sun",
+    "threat_level": "elevated"
+  },
+  {
+    "name": "Petra-1-967",
+    "system": "HD-2761",
+    "biome": "icy ring",
+    "gravity_g": 0.64,
+    "orbital_period_days": 264.5,
+    "population_millions": 2999.4,
+    "notable_feature": "aurora crystal mines",
+    "threat_level": "elevated"
+  }
+]

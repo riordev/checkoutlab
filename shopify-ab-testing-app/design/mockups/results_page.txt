@@ -1,0 +1,5 @@
+# Results Page Mockup
+
+- **Conversion Rate Charts**: Visual representation of user conversion data.
+- **Statistical Indicators**: Highlight important data such as p-values to determine significance.
+- **Variant Comparison**: Compare results of different test variants in a clear and concise manner.

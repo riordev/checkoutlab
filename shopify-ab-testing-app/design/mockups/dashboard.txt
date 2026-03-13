@@ -1,0 +1,5 @@
+# Dashboard Mockup
+
+- **Active Tests Listed**: Display current running tests with their statuses.
+- **Revenue Lift Metrics**: Show calculated revenue benefits for each test.
+- **Confidence Scores**: Indicate statistical confidence levels for user reference.
