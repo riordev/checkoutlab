@@ -60,7 +60,7 @@ export default function HomePage() {
           <span className="text-stone-600 font-medium">Welcome back, lovebirds!</span>
         </div>
         <h1 className="text-4xl md:text-5xl font-bold text-stone-800 mb-2">
-          This is <span className="text-rose-500">CoupleSpace</span>
+          This is <span className="text-rose-500">UsTime</span>
         </h1>
         <p className="text-stone-500 text-lg">Your shared space to plan, remember, and grow together</p>
       </section>

@@ -2,45 +2,146 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  :root {
-    --color-rose-50: #fff1f2;
-    --color-rose-100: #ffe4e6;
-    --color-rose-200: #fecdd3;
-    --color-rose-300: #fda4af;
-    --color-rose-400: #fb7185;
-    --color-rose-500: #f43f5e;
-    --color-rose-600: #e11d48;
-    --color-amber-50: #fffbeb;
-    --color-amber-100: #fef3c7;
-    --color-amber-200: #fde68a;
-    --color-stone-50: #fafaf9;
-    --color-stone-100: #f5f5f4;
-    --color-stone-200: #e7e5e4;
-    --color-stone-600: #57534e;
-    --color-stone-700: #44403c;
-    --color-stone-800: #292524;
-  }
+/* Base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-@layer utilities {
-  .glass-card {
-    @apply bg-white/80 backdrop-blur-sm rounded-2xl shadow-lg border border-rose-100;
-  }
-  
-  .btn-primary {
-    @apply bg-rose-500 hover:bg-rose-600 text-white px-6 py-3 rounded-full font-medium transition-all shadow-md hover:shadow-lg active:scale-95;
-  }
-  
-  .btn-secondary {
-    @apply bg-white hover:bg-rose-50 text-stone-700 px-6 py-3 rounded-full font-medium transition-all shadow-md hover:shadow-lg border border-rose-100 active:scale-95;
-  }
-  
-  .input-cozy {
-    @apply w-full px-4 py-3 rounded-xl border border-rose-200 bg-white/90 focus:outline-none focus:ring-2 focus:ring-rose-400 focus:border-transparent transition-all;
-  }
-  
-  .section-title {
-    @apply text-2xl font-bold text-stone-800 mb-4;
-  }
+/* Theme: Rose Gold (Default) */
+[data-theme='rose-gold'],
+:root:not([data-theme]) {
+  --bg-primary: #fff1f2;
+  --bg-secondary: #ffffff;
+  --bg-card: rgba(255, 255, 255, 0.8);
+  --text-primary: #881337;
+  --text-secondary: #9f1239;
+  --accent: #f43f5e;
+  --accent-light: #fecdd3;
+  --border: #fecdd3;
+  --nav-bg: rgba(255, 255, 255, 0.9);
+}
+
+/* Theme: Light */
+[data-theme='light'] {
+  --bg-primary: #fafafa;
+  --bg-secondary: #ffffff;
+  --bg-card: #ffffff;
+  --text-primary: #18181b;
+  --text-secondary: #71717a;
+  --accent: #3b82f6;
+  --accent-light: #dbeafe;
+  --border: #e4e4e7;
+  --nav-bg: rgba(255, 255, 255, 0.95);
+}
+
+/* Theme: Dark */
+[data-theme='dark'] {
+  --bg-primary: #0f172a;
+  --bg-secondary: #1e293b;
+  --bg-card: rgba(30, 41, 59, 0.8);
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --accent: #60a5fa;
+  --accent-light: #1e3a8a;
+  --border: #334155;
+  --nav-bg: rgba(15, 23, 42, 0.95);
+}
+
+/* Theme: Glass */
+[data-theme='glass'] {
+  --bg-primary: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+  --bg-secondary: rgba(255, 255, 255, 0.05);
+  --bg-card: rgba(255, 255, 255, 0.1);
+  --text-primary: #ffffff;
+  --text-secondary: rgba(255, 255, 255, 0.7);
+  --accent: #3b82f6;
+  --accent-light: rgba(59, 130, 246, 0.2);
+  --border: rgba(255, 255, 255, 0.1);
+  --nav-bg: rgba(15, 23, 42, 0.8);
+}
+
+/* Apply theme variables */
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  transition: background 0.3s ease, color 0.3s ease;
+}
+
+/* Glass theme specific */
+[data-theme='glass'] body {
+  background: linear-gradient(135deg, #0f172a 0%, #1e293b 50%, #0f172a 100%);
+  background-attachment: fixed;
+}
+
+/* Card styles */
+.theme-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  backdrop-filter: blur(10px);
+}
+
+[data-theme='glass'] .theme-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Navigation */
+.theme-nav {
+  background: var(--nav-bg);
+  border-bottom: 1px solid var(--border);
+  backdrop-filter: blur(10px);
+}
+
+/* Button styles */
+.theme-button-primary {
+  background: var(--accent);
+  color: white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.theme-button-primary:hover {
+  opacity: 0.9;
+  transform: translateY(-1px);
+}
+
+/* Input styles */
+.theme-input {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  color: var(--text-primary);
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  width: 100%;
+}
+
+.theme-input:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--accent);
 }
