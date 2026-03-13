@@ -21,12 +21,12 @@
 :root:not([data-theme]) {
   --bg-primary: linear-gradient(135deg, #fff1f2 0%, #ffe4e6 100%);
   --bg-secondary: #ffffff;
-  --bg-card: rgba(255, 255, 255, 0.9);
-  --text-primary: #831843;
-  --text-secondary: #9d174d;
-  --accent: #e11d48;
-  --accent-light: rgba(225, 29, 72, 0.15);
-  --border: #fda4af;
+  --bg-card: rgba(255, 255, 255, 0.95);
+  --text-primary: #be185d;
+  --text-secondary: #db2777;
+  --accent: #ec4899;
+  --accent-light: rgba(236, 72, 153, 0.2);
+  --border: #f9a8d4;
   --nav-bg: rgba(255, 241, 242, 0.95);
 }
 
@@ -165,7 +165,7 @@ body {
     opacity: 0.7;
   }
 
-  /* Primary button */
+  /* Primary button with shine hover */
   .btn-primary {
     background: var(--accent);
     color: white;
@@ -173,29 +173,79 @@ body {
     border-radius: 9999px;
     font-weight: 600;
     font-family: var(--font-cozy);
-    transition: all 0.2s ease;
+    transition: all 0.3s ease;
     display: inline-flex;
     align-items: center;
     justify-content: center;
     gap: 0.5rem;
     border: none;
     cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+  }
+
+  .btn-primary::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+      90deg,
+      transparent,
+      rgba(255, 255, 255, 0.4),
+      transparent
+    );
+    transition: left 0.5s ease;
+    z-index: -1;
+  }
+
+  .btn-primary:hover::before {
+    left: 100%;
   }
 
   .btn-primary:hover {
-    opacity: 0.9;
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    transform: translateY(-3px) scale(1.02);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
   }
 
   .btn-primary:active {
-    transform: translateY(0);
+    transform: translateY(-1px) scale(0.98);
   }
 
   .btn-primary:disabled {
     opacity: 0.5;
     cursor: not-allowed;
     transform: none;
+  }
+
+  /* Shine hover effect for any element */
+  .shine-hover {
+    position: relative;
+    overflow: hidden;
+  }
+
+  .shine-hover::after {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: linear-gradient(
+      to right,
+      transparent 0%,
+      rgba(255, 255, 255, 0.3) 50%,
+      transparent 100%
+    );
+    transform: rotate(30deg) translateX(-100%);
+    transition: transform 0.6s ease;
+  }
+
+  .shine-hover:hover::after {
+    transform: rotate(30deg) translateX(100%);
   }
 }
 

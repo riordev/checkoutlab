@@ -69,7 +69,7 @@ export default function Navbar() {
                   <Link
                     key={item.href}
                     href={item.href}
-                    className={`flex items-center gap-2 px-3 py-2 rounded-full transition-all ${
+                    className={`flex items-center gap-2 px-3 py-2 rounded-full transition-all duration-300 hover:scale-105 ${
                       isActive
                         ? 'font-medium'
                         : 'opacity-70 hover:opacity-100'
@@ -79,7 +79,7 @@ export default function Navbar() {
                       color: isActive ? 'var(--accent)' : 'var(--text-primary)'
                     }}
                   >
-                    <Icon className="w-4 h-4" />
+                    <Icon className="w-4 h-4 transition-transform duration-300 group-hover:scale-110" />
                     <span className="hidden md:inline">{item.label}</span>
                   </Link>
                 )
