@@ -9,7 +9,10 @@ interface ThemeContextType {
   setTheme: (theme: Theme) => void
 }
 
-const ThemeContext = createContext<ThemeContextType | undefined>(undefined)
+const ThemeContext = createContext<ThemeContextType>({
+  theme: 'rose-gold',
+  setTheme: () => {}
+})
 
 export function ThemeProvider({ children }: { children: React.ReactNode }) {
   const [theme, setTheme] = useState<Theme>('rose-gold')
@@ -27,14 +30,6 @@ export function ThemeProvider({ children }: { children: React.ReactNode }) {
       document.documentElement.setAttribute('data-theme', theme)
     }
   }, [theme, mounted])
-
-  if (!mounted) {
-    return (
-      <div style={{ visibility: 'hidden' }}>
-        {children}
-      </div>
-    )
-  }
 
   return (
     <ThemeContext.Provider value={{ theme, setTheme }}>
