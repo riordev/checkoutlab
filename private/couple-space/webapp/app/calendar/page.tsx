@@ -38,7 +38,7 @@ export default function CalendarPage() {
   const [view, setView] = useState<'month' | 'week'>('month')
   const [selectedDate, setSelectedDate] = useState<Date | null>(null)
   const [showAddModal, setShowAddModal] = useState(false)
-  const [newEvent, setNewEvent] = useState({ title: '', time: '', type: 'shared' as const, location: '' })
+  const [newEvent, setNewEvent] = useState({ title: '', time: '', type: 'shared' as 'work' | 'personal' | 'shared', location: '' })
 
   const monthStart = startOfMonth(currentDate)
   const monthEnd = endOfMonth(monthStart)
