@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react'
 import { Heart, MessageCircle, Sparkles, ArrowRight } from 'lucide-react'
 import { supabase } from './lib/supabase'
 import CheckInCard from './components/CheckInCard'
-import PresenceIndicator from './components/PresenceIndicator'
 
 interface CheckIn {
   id: string
@@ -27,7 +26,6 @@ const quickLinks = [
 export default function HomePage() {
   const [checkIns, setCheckIns] = useState<CheckIn[]>([])
   const [isLoading, setIsLoading] = useState(true)
-  const [partnerId, setPartnerId] = useState<string | undefined>(undefined)
 
   useEffect(() => {
     const fetchCheckIns = async () => {
@@ -77,7 +75,6 @@ export default function HomePage() {
   }, [])
 
   const handleReact = async (checkInId: string, reaction: string) => {
-    // In a real app, you'd save reactions to the database
     console.log(`Reacted with ${reaction} to check-in ${checkInId}`)
   }
 
@@ -85,23 +82,17 @@ export default function HomePage() {
     <div className="space-y-8">
       {/* Welcome Header */}
       <div className="text-center py-6">
-        <div className="inline-flex items-center gap-2 mb-4">
-          <PresenceIndicator 
-            userId={partnerId} 
-            partnerName="Partner" 
-          />
-        </div>
-        <h1 className="text-3xl md:text-4xl font-bold text-[var(--text-primary)] mb-2">
-          Welcome Back
+        <h1 className="text-4xl md:text-5xl font-bold text-[var(--text-primary)] mb-2" style={{ fontFamily: 'var(--font-cozy)' }}>
+          hiiii
         </h1>
-        <p className="text-[var(--text-secondary)]">
-          Here's what's happening with your relationship today
+        <p className="text-[var(--text-secondary)] text-lg">
+          made this for us 💕
         </p>
       </div>
 
       {/* Quick Actions */}
       <section>
-        <h2 className="section-title">Quick Actions</h2>
+        <h2 className="section-title">Quick stuff</h2>
         <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
           {quickLinks.map((link) => {
             const Icon = link.icon
@@ -109,7 +100,7 @@ export default function HomePage() {
               <a
                 key={link.href}
                 href={link.href}
-                className="group flex items-center gap-4 p-4 rounded-2xl bg-white border border-[var(--border)] hover:shadow-lg transition-all hover:scale-[1.02]"
+                className="group flex items-center gap-4 p-4 rounded-2xl bg-white/80 backdrop-blur-sm border border-[var(--border)] hover:shadow-lg transition-all hover:scale-[1.02]"
               >
                 <div className={`w-12 h-12 ${link.color} rounded-xl flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform`}>
                   <Icon className="w-6 h-6 text-white" />
@@ -127,12 +118,12 @@ export default function HomePage() {
       {/* Recent Check-ins */}
       <section>
         <div className="flex items-center justify-between mb-4">
-          <h2 className="section-title mb-0">Recent Check-ins</h2>
+          <h2 className="section-title mb-0">Recent vibes</h2>
           <a 
             href="/check-in" 
             className="text-sm text-[var(--accent)] hover:underline flex items-center gap-1"
           >
-            Add New
+            Add yours
             <ArrowRight className="w-4 h-4" />
           </a>
         </div>
@@ -167,7 +158,7 @@ export default function HomePage() {
 
       {/* Stats Summary */}
       <section>
-        <h2 className="section-title">This Week</h2>
+        <h2 className="section-title">This week</h2>
         <div className="grid grid-cols-3 gap-4">
           <div className="glass-card text-center p-4">
             <div className="text-3xl font-bold text-[var(--accent)]">{checkIns.length}</div>
@@ -175,7 +166,7 @@ export default function HomePage() {
           </div>
           <div className="glass-card text-center p-4">
             <div className="text-3xl font-bold text-green-500">0</div>
-            <div className="text-sm text-[var(--text-secondary)]">Date Ideas</div>
+            <div className="text-sm text-[var(--text-secondary)]">Date ideas</div>
           </div>
           <div className="glass-card text-center p-4">
             <div className="text-3xl font-bold text-purple-500">0</div>

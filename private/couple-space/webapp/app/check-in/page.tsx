@@ -70,11 +70,11 @@ export default function CheckInPage() {
           <Heart className="w-5 h-5 text-rose-500 fill-rose-500" />
           <span className="text-stone-600 font-medium">Daily Check-in</span>
         </div>
-        <h1 className="text-3xl md:text-4xl font-bold text-[var(--text-primary)] mb-2">
-          How are you?
+        <h1 className="text-3xl md:text-4xl font-bold text-[var(--text-primary)] mb-2" style={{ fontFamily: 'var(--font-cozy)' }}>
+          how ya feelin?
         </h1>
         <p className="text-[var(--text-secondary)]">
-          Share a quick update with your partner
+          hiiiii i thought this would be kinda cool
         </p>
       </div>
 
@@ -144,12 +144,7 @@ export default function CheckInPage() {
         </button>
       </div>
 
-      {/* Tips */}
-      <div className="mt-8 text-center">
-        <p className="text-sm text-[var(--text-secondary)]">
-          💡 Tip: Check in daily to stay connected, even when busy
-        </p>
-      </div>
+
     </div>
   )
 }

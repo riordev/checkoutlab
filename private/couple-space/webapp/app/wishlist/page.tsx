@@ -23,19 +23,19 @@ interface Wishlist {
 const initialWishlists: Wishlist[] = [
   {
     userId: 'user1',
-    userName: 'Your Wishlist',
+    userName: "Tom's Wishlist",
     items: [
       { id: '1', title: 'Wireless Headphones', description: 'Sony WH-1000XM5', price: '$350', priority: 'high', bought: false },
-      { id: '2', title: 'Cooking Class', description: 'Italian cuisine weekend course', price: '$200', priority: 'medium', bought: true, boughtBy: 'Partner' },
+      { id: '2', title: 'Cooking Class', description: 'Italian cuisine weekend course', price: '$200', priority: 'medium', bought: true, boughtBy: 'Jennifer' },
       { id: '3', title: 'Hiking Boots', link: 'https://example.com/boots', price: '$180', priority: 'low', bought: false },
     ]
   },
   {
     userId: 'user2',
-    userName: 'Partner\'s Wishlist',
+    userName: "Jennifer's Wishlist",
     items: [
       { id: '4', title: 'Art Supplies Set', description: 'Professional watercolor kit', price: '$120', priority: 'medium', bought: false },
-      { id: '5', title: 'Spa Day', description: 'Full day spa package', price: '$250', priority: 'high', bought: true, boughtBy: 'You' },
+      { id: '5', title: 'Spa Day', description: 'Full day spa package', price: '$250', priority: 'high', bought: true, boughtBy: 'Tom' },
       { id: '6', title: 'Kindle Paperwhite', price: '$140', priority: 'low', bought: false },
     ]
   }

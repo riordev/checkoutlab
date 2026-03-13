@@ -25,8 +25,8 @@ export default function Navbar() {
             <div className="w-10 h-10 bg-gradient-to-br from-rose-400 to-rose-600 rounded-full flex items-center justify-center shadow-lg">
               <Heart className="w-5 h-5 text-white fill-white" />
             </div>
-            <span className="text-xl font-bold" style={{ color: 'var(--text-primary)' }}>
-              CoupleSpace
+            <span className="text-xl font-medium" style={{ color: 'var(--text-primary)', fontFamily: 'var(--font-cozy)' }}>
+              us
             </span>
           </Link>
 
