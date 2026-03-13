@@ -37,6 +37,8 @@ export default function CalendarPage() {
   const [currentDate, setCurrentDate] = useState(new Date())
   const [view, setView] = useState<'month' | 'week'>('month')
   const [selectedDate, setSelectedDate] = useState<Date | null>(null)
+  const [showAddModal, setShowAddModal] = useState(false)
+  const [newEvent, setNewEvent] = useState({ title: '', time: '', type: 'shared' as const, location: '' })
 
   const monthStart = startOfMonth(currentDate)
   const monthEnd = endOfMonth(monthStart)
@@ -65,7 +67,7 @@ export default function CalendarPage() {
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
           <h1 className="text-3xl font-bold text-stone-800">Our Calendar</h1>
-          <p className="text-stone-500 mt-1">Plan your time together</p>
+          <p className="text-stone-500 mt-1">Plan our time together</p>
         </div>
         <div className="flex items-center gap-3">
           <div className="bg-white rounded-full p-1 shadow-md border border-rose-100 flex">
@@ -86,7 +88,7 @@ export default function CalendarPage() {
               Week
             </button>
           </div>
-          <button className="btn-primary flex items-center gap-2">
+          <button onClick={() => setShowAddModal(true)} className="btn-primary flex items-center gap-2">
             <Plus className="w-5 h-5" />
             Add Event
           </button>
@@ -210,6 +212,78 @@ export default function CalendarPage() {
           ) : (
             <p className="text-stone-400 text-center py-4">No events for this day</p>
           )}
+        </div>
+      )}
+
+      {/* Add Event Modal */}
+      {showAddModal && (
+        <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
+          <div className="glass-card max-w-md w-full">
+            <h3 className="text-xl font-bold mb-4">Add New Event</h3>
+            <div className="space-y-4">
+              <div>
+                <label className="block text-sm text-stone-600 mb-1">Event Title</label>
+                <input
+                  type="text"
+                  value={newEvent.title}
+                  onChange={(e) => setNewEvent({...newEvent, title: e.target.value})}
+                  className="input-cozy"
+                  placeholder="e.g., Dinner Date"
+                />
+              </div>
+              <div>
+                <label className="block text-sm text-stone-600 mb-1">Time</label>
+                <input
+                  type="time"
+                  value={newEvent.time}
+                  onChange={(e) => setNewEvent({...newEvent, time: e.target.value})}
+                  className="input-cozy"
+                />
+              </div>
+              <div>
+                <label className="block text-sm text-stone-600 mb-1">Location</label>
+                <input
+                  type="text"
+                  value={newEvent.location}
+                  onChange={(e) => setNewEvent({...newEvent, location: e.target.value})}
+                  className="input-cozy"
+                  placeholder="e.g., Home"
+                />
+              </div>
+              <div>
+                <label className="block text-sm text-stone-600 mb-1">Type</label>
+                <select
+                  value={newEvent.type}
+                  onChange={(e) => setNewEvent({...newEvent, type: e.target.value as 'work' | 'personal' | 'shared'})}
+                  className="input-cozy"
+                >
+                  <option value="shared">Shared</option>
+                  <option value="work">Work</option>
+                  <option value="personal">Personal</option>
+                </select>
+              </div>
+            </div>
+            <div className="flex gap-3 mt-6">
+              <button
+                onClick={() => setShowAddModal(false)}
+                className="flex-1 py-2 rounded-xl border border-stone-300 text-stone-600 hover:bg-stone-50"
+              >
+                Cancel
+              </button>
+              <button
+                onClick={() => {
+                  if (newEvent.title) {
+                    alert('Event added! (Save to database coming soon)')
+                    setShowAddModal(false)
+                    setNewEvent({ title: '', time: '', type: 'shared', location: '' })
+                  }
+                }}
+                className="flex-1 py-2 rounded-xl bg-rose-500 text-white hover:bg-rose-600"
+              >
+                Add Event
+              </button>
+            </div>
+          </div>
         </div>
       )}
     </div>

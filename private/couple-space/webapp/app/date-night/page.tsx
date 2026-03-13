@@ -100,7 +100,7 @@ export default function DateNightPage() {
         <h1 className="text-3xl md:text-4xl font-bold text-stone-800 mb-2">
           What Should We Do?
         </h1>
-        <p className="text-stone-500">Spin the wheel or browse ideas for your next date</p>
+        <p className="text-stone-500">Spin the wheel or browse ideas for our next date</p>
       </div>
 
       {/* Category Filter */}
